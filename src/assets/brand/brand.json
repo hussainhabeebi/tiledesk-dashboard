@@ -1,6 +1,6 @@
 {
 "DASHBOARD": {
-    "META_TITLE": "Tiledesk Design Studio",
+    "META_TITLE": "Leadvyne Design Studio",
     "FAVICON_URL": "assets/img/logos/favicon.ico",
     "CUSTOM_COMPANY_HOME_LOGO": false,
     "COMPANY_LOGO_PLANET": "assets/img/logos/tiledesk_planet.svg",
@@ -53,7 +53,7 @@
   },
   "WIDGET": {
     "LOGO_CHAT": "https://tiledesk.com/tiledesk-logo-white.png",
-    "POWERED_BY": "<a tabindex='-1' target='_blank href='https://www.tiledesk.com/?utm_source=widget'><img src='https://panel.tiledesk.com/v3/dashboard/assets/img/logos/tiledesk-solo_logo_new_gray.svg'/><span> Powered by Tiledesk</span></a>"
+    "POWERED_BY": "<a tabindex='-1' target='_blank href='https://www.tiledesk.com/?utm_source=widget'><img src='https://panel.tiledesk.com/v3/dashboard/assets/img/logos/tiledesk-solo_logo_new_gray.svg'/><span> Powered by Leadvyne</span></a>"
   },
   "CHAT": {
 
@@ -71,8 +71,8 @@
     "COMPANY_LOGO_NO_TEXT": "assets/img/logos/tiledesk_logo_no_text.svg",
     "BASE_LOGO": "assets/img/logos/tiledesk_logo.svg",
     "BASE_LOGO_NO_TEXT": "assets/img/logos/tiledesk_logo_no_text.svg",
-    "COMPANY_NAME": "Tiledesk",
-    "BRAND_NAME": "Tiledesk",
+    "COMPANY_NAME": "Leadvyne",
+    "BRAND_NAME": "Leadvyne",
     "COMPANY_SITE_NAME": "tiledesk.com",
     "COMPANY_SITE_URL": "https://www.tiledesk.com",
     "CONTACT_US_EMAIL": "support@tiledesk.com",
